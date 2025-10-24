@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="IMT SU Logo" width="150" /> 
+<img src="./assets/logo.png" alt="IMT SU Logo" width="250" /> 
 
 <h1>IMT Student Union @ UC</h1>
 <p><strong>2025/2026</strong></p>
