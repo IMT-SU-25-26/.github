@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- You can replace this with a URL to your organization's logo -->
-
-<!-- <img src="URL_TO_YOUR_LOGO" alt="IMT SU Logo" width="150" /> -->
+<img src="./assets/logo.png" alt="IMT SU Logo" width="150" /> 
 
 <h1>IMT Student Union @ UC</h1>
 <p><strong>2025/2026</strong></p>
